@@ -1,1 +1,0 @@
-Ivan Buric ovo je drugi commit primjer
