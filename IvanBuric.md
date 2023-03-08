@@ -1,1 +1,1 @@
-Ivan Buric ovo je testni primjer
+Ivan Buric ovo je drugi commit primjer
