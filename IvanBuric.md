@@ -1,1 +1,1 @@
-Ivan Buric ovo je test
+Ivan Buric ovo je testni primjer
